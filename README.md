@@ -12,6 +12,7 @@ Which months of the year Madhav Store generate the maximum profit and minimum pr
 Which sub-category of the product customer orders the most and contributes to gaining maximum profits for Madhav Store?
 
 Interactive dashboard:
+![Aditya Store Sales Analysis](https://github.com/Nethravathi30/Aditya_Store_Analysis_PowerBi-Dashboard/assets/156195470/06811409-28e0-4d99-ad02-57f5f2591526)
 
 
 Result:
