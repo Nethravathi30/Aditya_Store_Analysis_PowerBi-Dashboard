@@ -30,12 +30,14 @@ I have created an interactive dashboard to track and analyze online sales data. 
 
 #### Project Insights:
 
-Most of the customers spent the maximum amounts of money on purchasing products like clothing (63%), electronics (21%) and furniture (17%) (Printers, Bookcases, Sarees, etc).
-The store generates the maximum profits from the months of January to April and November.
-The states of Maharashtra, Madhya Pradesh and Uttar Pradesh are the top 3 product buyers.
-The customers, Harivansh, Madhav and Madan Mohan, are the top 3 product buyers.
-Generally, the customers use the Cash on Delivery (44%) and UPI (21%) mode of payment.
+* Most of the customers spent the maximum amounts of money on purchasing products like clothing (63%), electronics (21%) and furniture (17%) (Printers, 
+  Bookcases, Sarees, etc).
+* The store generates the maximum profits from the months of January to April and November.
+* The states of Maharashtra, Madhya Pradesh and Uttar Pradesh are the top 3 product buyers.
+* The customers, Harivansh, Madhav and Madan Mohan, are the top 3 product buyers.
+* Generally, the customers use the Cash on Delivery (44%) and UPI (21%) mode of payment.
 
 #### Conclusion:
-The customers living in Maharashtra, Madhya Pradesh and Uttar Pradesh purchase most of the products, such as Clothing, Electronics and Furniture. To improve sales of the Madhav E-Commerce Store, the owner must show maximum ads, sale offers/coupons in the months from January to April and November.
+
+The customers living in Maharashtra, Madhya Pradesh and Uttar Pradesh purchase most of the products, such as Clothing, Electronics and Furniture. To improve sales of the Aditya E-Commerce Store, the owner must show maximum ads, sale offers/coupons in the months from January to April and November.
 
